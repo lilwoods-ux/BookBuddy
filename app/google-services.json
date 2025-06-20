@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928017777835",
+    "project_id": "woods-2370",
+    "storage_bucket": "woods-2370.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928017777835:android:d3da1de866fc201d39e3ee",
+        "android_client_info": {
+          "package_name": "com.example.bookbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ZF-o5m4n2vwyPWYPZX-IlvTqY7cxh1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
